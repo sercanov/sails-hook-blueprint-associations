@@ -12,7 +12,7 @@ Custom blueprint hook to get associations
 `GET /:model/associations`
 
 Ex request
-'GET /user/associations'
+`'GET /user/associations'`
 
 Ex response
 ```
