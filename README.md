@@ -15,8 +15,8 @@ Ex request
 `'GET /user/associations'`
 
 Ex response
-```
-javascript
+```javascript
+
 {
   "associations": [
     {
